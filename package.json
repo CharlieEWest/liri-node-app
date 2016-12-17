@@ -1,0 +1,15 @@
+{
+  "name": "hw8",
+  "version": "1.0.0",
+  "description": "home work week 8 LIRI",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "module"
+  ],
+  "author": "charlie",
+  "license": "ISC"
+}
